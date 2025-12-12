@@ -26,5 +26,3 @@ It analyzes your password in real-time and provides suggestions to improve it.
 # ✨ Author
 
 Sanoober — Learning, building, and improving every day! 💻🌟
-```bash
-pip install streamlit
